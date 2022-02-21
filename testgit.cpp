@@ -10,5 +10,6 @@ int main(){
     cout << "He was "<< characterAge << "years old."<<endl;
     cout << "He likes the name"<< characterName<<endl;
     cout << "But he doesn't like the age"<< characterAge<<endl;
+    cout << "Some changes."
     return 0;
 }
